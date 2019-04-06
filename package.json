@@ -2,7 +2,7 @@
   "name": "{{projectName}}",
   "version": "{{projectVersion}}",
   "description": "{{projectDescription}}",
-  "author": "{{projectSAuthor}}",
+  "author": "{{projectAuthor}}",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
